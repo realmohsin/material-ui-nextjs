@@ -1,0 +1,29 @@
+{
+  "name": "material-ui-nextjs",
+  "version": "5.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@mui/material-nextjs": "latest",
+    "@mui/styles": "^5.16.7",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-grid-gallery": "^1.0.1",
+    "react-slick": "^0.30.2",
+    "react-transition-group": "^4.4.5",
+    "slick-carousel": "^1.8.1"
+  }
+}
